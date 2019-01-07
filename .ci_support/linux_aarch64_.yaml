@@ -1,0 +1,5 @@
+BUILD: aarch64-conda_cos7-linux-gnu
+channel_sources:
+- archiarm,
+channel_targets:
+- archiarm main
